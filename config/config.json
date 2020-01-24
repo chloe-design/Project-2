@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": null,
-    "database": "exampledb",
+    "password": "R2wwsi!!",
+    "database": "user_profile_db",
     "host": "localhost",
     "dialect": "mysql"
   },
