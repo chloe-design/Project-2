@@ -7,11 +7,10 @@
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
+    "username": "travis",
     "database": "testdb",
     "host": "localhost",
-    "dialect": "mysql",
+    "dialect": "mysql2",
     "logging": false
   },
   "production": {
